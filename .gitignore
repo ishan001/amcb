@@ -1,0 +1,12 @@
+/framework/
+/cms/
+/install/
+/silverstripe-cache/
+/gridfieldextensions/
+_ss_environment.php
+*.orig
+/vendor/
+/select2/
+/tagfield/
+.idea/
+/gridfield-bulk-editing-tools/
