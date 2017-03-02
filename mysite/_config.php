@@ -9,7 +9,7 @@ $databaseConfig = array(
 	'server' => 'localhost',
 	'username' => 'root',
 	'password' => '1q2w3e4r',
-	'database' => 'avemaria',
+	'database' => 'amcb',
 	'path' => ''
 );
 
